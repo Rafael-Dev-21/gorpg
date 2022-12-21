@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Goblin",
+		"life": 30,
+		"attack": 10,
+		"defense": 8
+	},
+	{
+		"name": "Spider",
+		"life": 19,
+		"attack": 8,
+		"defense": 16
+	},
+	{
+		"name": "Turtle",
+		"life": 50,
+		"attack": 4,
+		"defense": 28
+	}
+]
